@@ -48,7 +48,7 @@ Kittens Carousel is a static website application deployed with Apache Web Server
 
 ## Expected Outcome
 
-![Project 001 : Kittens Carousel Application Snapshot](./project-001-snapshot.png)
+![Project 001 : Kittens Carousel Application Snapshot](./Pro_Project_001_Snapshot.png)
 
 ### At the end of the project, following topics are to be covered;
 
