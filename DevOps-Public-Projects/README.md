@@ -15,3 +15,27 @@ List of projects within Linux as follows;
 List of project with Terraform as follows:
 
 1. -
+
+# Ansible Projects
+
+List of project with Ansible as follows:
+
+1. -
+
+# Docker Projects
+
+List of project with Docker as follows:
+
+1. -
+
+# Jenkins Projects
+
+List of project with Jenkins as follows:
+
+1. -
+
+# Kubernetes Projects
+
+List of project with Kubernetes as follows:
+
+1. -
