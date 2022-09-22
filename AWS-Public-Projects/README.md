@@ -16,6 +16,10 @@ List of projects within AWS workshop as follows;
 
 List of projects within Python as follows;
 
-1. 
+1. - [Flask Projects 01 : Hello World app and Jinja Template Website](./Python-Projects/Flask-Projects-01-hello-world-app-Jinja-Template/README.md)
+
+2. - [Flask Projects 02 : If Handling Routes and Get Post Methods](./Python-Projects/Flask-Projects-02-If-Handling-Routes-and-Get-Post-Methods/README.md)
+
+3. - [Flask Projects 03 : Handling SQL with Flask Web Application](./Python-Projects/Flask-Projects-03-Handling-SQL-with-Flask-Web-Application/README.md)
  
 
