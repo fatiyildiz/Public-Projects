@@ -30,7 +30,7 @@ The Phonebook Application aims to create a phonebook application in Python and d
 Input in username field          Format to convert
 --------------                   -----------------
 ''                               Warning -> 'Invalid input: Name can not be empty'
-callahan                         Callahan
+fati                             Fati
 joHn doE                         John Doe
 62267                            Warning -> 'Invalid input: Name of person should be text'
 
@@ -106,7 +106,7 @@ thousand                         Warning -> 'Invalid input: Phone number should 
   
     - Instance type can be configured as `db.t2.micro`
 
-    - Database engine can be `MySQL` with version of `8.0.19`.
+    - Database engine can be `MySQL` with version of `8.0.19` or newer.
 
   - Phonebook Application Website URL should be given as output by Terraform, after the resources created.
 
@@ -114,8 +114,7 @@ thousand                         Warning -> 'Invalid input: Phone number should 
 
 ```text
 Terraform-Project-01-Phonebook-Application-deployed-on-AWS (folder)
-|
-|----readme.md               # Given to the DevOps (Definition of the project)
+
 |----main.tf                 # To be delivered by DevOps (Terraform Configuration) 
 |----phonebook-app.py        # Given to the DevOps (Python Flask Web Application)
 |----templates
