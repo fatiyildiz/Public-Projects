@@ -14,7 +14,9 @@ List of projects within Linux as follows;
 
 List of project with Terraform as follows:
 
-1. -
+1. - [Terraform Project 01 : Phonebook-Application-deployed-on-AWS](./Terraform-Projects/Terraform-Project-01-Phonebook-Application-deployed-on-AWS/README.md)
+
+2. - 
 
 # Ansible Projects
 
